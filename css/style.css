@@ -1711,6 +1711,12 @@ ul.social-icons li a:hover {
     box-sizing: border-box !important;
     object-fit: cover !important;
 }
+#projects img{
+    height: auto !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    object-fit: cover !important;
+}
 .about-me{
     font-weight: 500;
     color: #000;
